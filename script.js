@@ -34,7 +34,7 @@ class Calculator {
       case '*':
         this.operation = 'multiply'
         break
-      case '/':
+      case '÷':
         this.operation = 'divide'
         break
       default:
